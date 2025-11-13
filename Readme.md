@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Даниил Авдяков](https://up.htmlacademy.ru/htmlcss-individual/2/user/2589195).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Москалев](https://htmlacademy.ru/profile/mosk).
 
 ---
 
