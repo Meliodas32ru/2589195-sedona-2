@@ -2,7 +2,7 @@
 
 * Студент: [Даниил Авдяков](https://up.htmlacademy.ru/htmlcss-individual/2/user/2589195).
 * Наставник: [Михаил Москалев](https://htmlacademy.ru/profile/mosk).
-
+* Сайт : [Мой проект Седона](https://meliodas32ru.github.io/2589195-sedona-2/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
