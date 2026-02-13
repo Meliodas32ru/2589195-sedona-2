@@ -30,13 +30,19 @@ body {
 
 .header-button {
   font-family: inherit;
+  border-radius: 4px;
+  width: 160px;
+  height: 36px;
+  background: #756157;
+}
+
+.header-button-caption {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
   text-transform: uppercase;
   text-align: center;
   color: #fff;
-  background: #756157;
 }
 
 .navigation-link {
@@ -71,7 +77,7 @@ body {
   content: "";
   background-image: url("../images/decor.svg");
   width: 100%;
-  height: 20%;
+  height: 100%;
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: bottom;
@@ -160,16 +166,19 @@ body {
 
 .search-button {
   font-family: inherit;
+  background: #756157;
+  border-radius: 4px;
+  width: 376px;
+  height: 52px;
+}
+
+.search-button-caption {
   font-weight: 700;
   font-size: 20px;
   line-height: 36px;
   text-transform: uppercase;
   text-align: center;
   color: #fff;
-  background: #756157;
-  border-radius: 4px;
-  padding: 8px 50px;
-
 }
 
 .subscribe {
@@ -195,13 +204,20 @@ body {
 
 .subscribe-button {
   font-family: inherit;
+  background: #82b3d3;
+  border-radius: 0 4px 4px 0;
+  padding: 8px;
+  width: 232px;
+  height: 52px;
+}
+
+.subscribe-button-caption {
   font-weight: 700;
   font-size: 20px;
   line-height: 36px;
   text-transform: uppercase;
   text-align: center;
   color: #fff;
-  background: #82b3d3;
 }
 
 .footer-phone {
@@ -210,10 +226,6 @@ body {
   text-transform: uppercase;
   text-align: center;
   color: #000;
-}
-
-h3 {
-  text-decoration: none;
 }
 
 /* catalog */
